@@ -2,7 +2,7 @@
 
 This is a simple **Diary web application** that I built with a **React (Vite) frontend** and a **Laravel backend**.  
 Data is stored in a local **SQLite database**. The app demonstrates CRUD functionality for diary entries and basic page navigation.  
----
+
 
 ---
 
