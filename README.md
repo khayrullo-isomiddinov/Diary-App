@@ -1,20 +1,8 @@
 # Diary Application
 
-This is a simple **Diary web application** built with a **React (Vite) frontend** and a **Laravel backend**.  
+This is a simple **Diary web application** that I built with a **React (Vite) frontend** and a **Laravel backend**.  
 Data is stored in a local **SQLite database**. The app demonstrates CRUD functionality for diary entries and basic page navigation.  
-
 ---
-
-## Project Structure
-|
-├── client/ # React frontend (Vite)
-│ ├── package.json
-│ └── ... React code
-│
-└── server/ # Laravel backend (REST API)
-├── composer.json
-└── ... Laravel code
-
 
 ---
 
